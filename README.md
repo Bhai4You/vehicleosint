@@ -5,7 +5,7 @@
 <p align="center">
     <a href="https://github.com/Bhai4You/vehicleosint" ><img width="300" src="https://github.com/Bhai4You/bhai4you/blob/master/vehicleosint/icon.png?raw=true" alt="Vehicle OSINT"></a><br>
 <h1><p align="center">Vehicle OSINT<br></h1>
-  <p align="center">Version : 1.0.0</p>
+  <p align="center">Version : 1.0.1</p>
 </p>
 
 <p align="center">
