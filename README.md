@@ -55,7 +55,7 @@ Click on below button for Downloading latest version of Vehicle OSINT !
 <br><br>
 
 <!-- BEGIN LATEST DOWNLOAD BUTTON -->
-[![Download zip](https://custom-icon-badges.herokuapp.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download APK")](https://bit.ly/3ITNTAL)
+[![Download zip](https://custom-icon-badges.herokuapp.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download APK")](https://play.google.com/store/apps/details?id=com.jivani.vehicleosint)
 <!-- END LATEST DOWNLOAD BUTTON -->
 
 <h2><img height="20" src="https://github.com/Bhai4You/bhai4you/blob/master/anubis/community.svg">&nbsp;&nbsp;Community</h2>
