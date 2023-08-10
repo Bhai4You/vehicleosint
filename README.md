@@ -38,10 +38,13 @@
 
 
 - [x] Cool UI
-- [x] Unmasked vehicle chassis & engine number
-- [x] Vehicle owner's home address
+- [x] Owner's Information
+- [x] Vehicle Information
 - [x] Easy to Use
-- [x] No Irritatating Ads!
+- [x] Permit Details
+- [x] Insurance Information
+- [x] Puc Details
+- [x] and much more..
 - [x] Give Support if you like my work ;)
 
 
